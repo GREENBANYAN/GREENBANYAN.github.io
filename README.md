@@ -1,13 +1,15 @@
+
+
 ├── _config.yml
 ├── _drafts
-|   ├── placeholder
-|   └── placeholder
+   ├── placeholder
+   └── placeholder
 ├── _includes
-|   ├── placeholder
-|   └── placeholder
+   ├── placeholder
+   └── placeholder
 ├── _layouts
-|   ├── placeholder
-|   └── placeholder
+   ├── placeholder
+   └── placeholder
 ├── _posts
 │   └── placeholder
 ├── placeholder
